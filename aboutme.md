@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: A civil engineer transitioning to data science
+---
 
 My name is Janelle A. Mills. I have the following qualities:
 
