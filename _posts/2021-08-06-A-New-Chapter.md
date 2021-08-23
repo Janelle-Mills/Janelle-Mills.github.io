@@ -11,4 +11,4 @@ tags: [just start, python, professional development, Lambda School]
 # End of Week One
 ## Time to Breathe
 
-ASDF
+I completed my first week of Lambda School and I am feeling confident.
