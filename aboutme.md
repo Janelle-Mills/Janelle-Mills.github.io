@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: A civil engineer transitioning to data science
+subtitle: A civil engineer turned data science
 ---
 
-My name is Janelle A. Mills. I have the following qualities:
+My name is Janelle A. Mills.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Summary:**
 
-What else do you need?
+- Civil construction engineer: I know how to build large-scale infrastructure. Think bridges, roadways, and structures.
+- Data Scientist: Began learning with Lambda School in August 2021. Expected completion: Jan 2022.
 
-### My story
+**Fun Facts:**
+- I prefer tea to coffee.
+- I garden more than I Facebook.
+- I am interested in building alternative and renewable energy solustions.
+- I am a dual citizen.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+**What else do you need?**
+
+janelleamills@gmail.com
