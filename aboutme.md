@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A civil engineer turned data science
+subtitle: Civil Engineer Turned Data Scientist
 ---
 
 My name is Janelle A. Mills.
