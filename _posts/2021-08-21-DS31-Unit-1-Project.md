@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit 1 Project: Power to Happiness?
+title: Unit 1 Project - Power to Happiness?
 subtitle: Can use sustainable energy explain happiness in country?
 cover-img: /assets/img/pexels-pixabay-33062.jpg
 thumbnail-img: /assets/img/pexels-pixabay-33062.jpg
