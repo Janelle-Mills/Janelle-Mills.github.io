@@ -9,7 +9,7 @@ tags: [Lambda School, data science, sustainable, energy, project]
 ---
 
 ## Lambda DS31 - Unit 1 - Project 1: Does renewable energy availability relate to a happiness score?
-My first data science project. The analysis described below was done using Python language and Google Colab.
+My first data science project. The analysis described below was done using Python language and Google Colab. The Colab coding file can be found [here](https://colab.research.google.com/drive/1A1OyblrvQjPkaJ6cxZoMOZIpkGf4RoGq?usp=sharing). Your comments on my code can be sent to [janelleamills@gmail.com](janelleamills@gmail.com).
 
 # I. How does renewable energy relate to happiness?
 [Renewable energy](https://www.nrdc.org/stories/renewable-energy-clean-facts#sec-whatis) is energy which is derived by harnessing the natural resources such as wind, solar, hydro, and geothermal. These sources are naturally replenished.
