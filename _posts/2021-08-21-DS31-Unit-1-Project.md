@@ -56,20 +56,20 @@ From there, I performed a left .merge() with the happiness score data. Finally, 
 * Analysis method 
 To begin looking at the data, I used a .pairplot() to compare all of the DataFrame features. Observation of this scatterplots yield that while GDP and happiness scores show a correlation, correlations shown between all other parinings is less clear. I also noted that two outliers made this visualization difficult to parce. The outliers are India and China. To be able to see relationships more clearly, these two countries were removed for the ongoing analysis.
 
-![Pairplot 1](/assets/img/pairplot outliers.png)
+![Pairplot 1](https://github.com/Janelle-Mills/Janelle-Mills.github.io/blob/a787dafd373959892e6c950fee047fb9573534f8/assets/img/pairplot%20outliers.png)
 
 These visualization show that features without India and China. When we observe the happiness_score vs. sus_fuel_percent score, we see a weak linear relationship with data points clustered at 0% sus_fuel_percent  and 100% sus_fuel_percent with a negative slope.
 
-![Pairplot 2](/assets/img/Pairplot no outliers.png)
+![Pairplot 2](https://github.com/Janelle-Mills/Janelle-Mills.github.io/blob/a787dafd373959892e6c950fee047fb9573534f8/assets/img/Pairplot%20no%20outliers.png)
 
-#IV. Results 
+# IV. Results 
 I chose to zoom in: **happiness_score vs. sus_fuel_percent.**
 
 ![Happiness and Renewable Fuel](/assets/img/happ_sus.png)
 
 When a line is added to the **happiness_score vs. sus_fuel_percent** curve, one can see the clusters show that a negative relationship between the the two features. In other words, countries with a lower percentage of renewable energy as a fuel source, show higher happiness scores than countries with a high percentage of renewable energy. To better understand this relationship, I performed an ordinary least squared regression:
 
-![OLS](/assets/img/Screen Shot 2021-08-23 at 2.49.35 PM.PNG)
+![OLS](https://github.com/Janelle-Mills/Janelle-Mills.github.io/blob/a787dafd373959892e6c950fee047fb9573534f8/assets/img/Screen%20Shot%202021-08-23%20at%202.49.35%20PM.png)
 
 In this given dataset, we see that the slope of this linear fit is indeed negative, but the R-squared value indicates that that correlation is weak. When the p-value is examined, we find that its value is zero, which is less that the typical 0.05 that is accepted. This means that we must reject the null hypothesis in this case, and accept the alternative hypothesis.
  
