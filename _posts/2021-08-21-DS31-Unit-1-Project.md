@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit 1 Project - Power to Happiness?
+title: Power to Happiness?
 subtitle: Can we use renewable energy to predict happiness in countries?
 cover-img: /assets/img/pexels-pixabay-33062.jpg
 thumbnail-img: /assets/img/pexels-pixabay-33062.jpg
@@ -9,7 +9,7 @@ tags: [Lambda School, data science, sustainable, energy, project]
 ---
 
 ## Lambda DS31 - Unit 1 - Project 1: Does renewable energy availability relate to a happiness score?
-Typically, my content focuses on construction and mentorship opportunities. This week, I bringing a post from my data science course. The analysis describe below was done using Python language and Google Colab.
+My first data science project. The analysis described below was done using Python language and Google Colab.
 
 # I. How does renewable energy relate to happiness?
 [Renewable energy](https://www.nrdc.org/stories/renewable-energy-clean-facts#sec-whatis) is energy which is derived by harnessing the natural resources such as wind, solar, hydro, and geothermal. These sources are naturally replenished.
