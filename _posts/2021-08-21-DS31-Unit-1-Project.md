@@ -26,10 +26,11 @@ On one hand, the [Dystopia](https://worldhappiness.report/faq/#what-is-dystopia)
 Given that the WHR report makes clear that other focus are may be added to the analysis, I became curious if renewable energy may be part of the residual that has yet to be quantified. The information presented below describes my data selection methods and findings in this analysis.
 
 # II. Description of the data 
-1. After searching for relevant datasets, I discovered the challenge of finding data about power plants around the world. The most robust database I could find is compiled by World Resources Institute ([WRI](https://datasets.wri.org/dataset/globalpowerplantdatabase)) based in Washington, DC. The dataset lists more than 35,000 power production plants including, the plants' power capacity, fuel types (primary, secondary, and tertiary), estimates for power production (2014-2019), and actual power production (2014-2019).
+(1) After searching for relevant datasets, I discovered the challenge of finding data about power plants around the world. The most robust database I could find is compiled by World Resources Institute ([WRI](https://datasets.wri.org/dataset/globalpowerplantdatabase)) based in Washington, DC. The dataset lists more than 35,000 power production plants including, the plants' power capacity, fuel types (primary, secondary, and tertiary), estimates for power production (2014-2019), and actual power production (2014-2019).
 
 ![Number of power plants grouped by primary type in WRI sheets.](/assets/img/World_primary_fuel.png)
-Number of power plants grouped by primary type in WRI sheets.
+
+*Number of power plants grouped by primary type in WRI sheets.*
 
 In exploring the data and performing a .value_counts(), I discovered that the total number of renewable power plants (wind, hydro, solar) far outnumbered the quantity of non-renewable power plants.
 
@@ -40,9 +41,9 @@ The WRI dataset had limitations. Much of the data about energy production, rathe
 
 This dataset was cleaned and entries with missing capacities or missing fuel types were removed from the dataset.
 
-2. From the WHR, I used the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-happiness) which listed the happiness scores and GDP per capita from 2017. This data set had been pre-cleaned by the Sustainable Development Solutions Network, the group that assembles the happiness report. This data provides the index used in the 2017 for the happiness score but does not include raw data or the equations used to derive the score.
+(2) From the WHR, I used the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-happiness) which listed the happiness scores and GDP per capita from 2017. This data set had been pre-cleaned by the Sustainable Development Solutions Network, the group that assembles the happiness report. This data provides the index used in the 2017 for the happiness score but does not include raw data or the equations used to derive the score.
 
-3. Finally, I insert a column from the [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL), which listed populations by country.
+(3) Finally, I insert a column from the [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL), which listed populations by country.
 
 # III. Statistical methods 
 * Hypothesis
